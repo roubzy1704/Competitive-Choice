@@ -252,13 +252,12 @@ footer {
 
 .footerContact p {
 	padding-left: 90px;
-	/* line-height: 10px; */
 	font-weight: normal;
 }
 
 .contactMission {
 	position: relative;
-	padding-top: 250px;
+	padding-top: 200px;
 }
 
 .contactMission h3 {
